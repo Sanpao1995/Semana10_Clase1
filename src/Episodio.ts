@@ -1,4 +1,4 @@
-class Episodio {
+export class Episodio {
     nombre:string
     resumen:string
     duracion:string

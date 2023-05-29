@@ -1,5 +1,7 @@
-"use strict";
-class Persona {
+export class Persona {
+    ;
+    ;
+    ;
     constructor(nombre, fotografia, descripcion) {
         this.nombre = nombre;
         this.fotografia = fotografia;
